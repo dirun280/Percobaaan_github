@@ -1,0 +1,4 @@
+w untuk maju
+s untuk mundur
+d untuk ke kanan
+a untuk ke kiri
