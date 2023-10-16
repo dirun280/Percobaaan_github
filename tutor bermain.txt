@@ -1,6 +1,7 @@
-tombol fungsi
+1.tombol fungsi
 shift kiri untuk sprint
-w untuk maju
+
+2.w untuk maju
 s untuk mundur
 d untuk ke kanan
 a untuk ke kiri
